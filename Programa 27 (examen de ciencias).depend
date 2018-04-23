@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1425428613 source:c:\users\luis\dropbox\inco\programación\programa 27 (examen de ciencias)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
